@@ -2,7 +2,12 @@
   - A Phd Student at Whu 
 - 👀 I’m interested in ...
   - Simulation calculation in structrues 
+    - Fiber model
+    - FEM model (Abaqus)
   - high performance concrete and steel materials
+  - AI methods in engineering structrues
+    - Properties prediction 
+    - Seismic reaction respond
 - 🌱 I’m currently learning ...
   -   Structure engineering with high performance materials
 - 💞️ I’m looking to collaborate on ...
